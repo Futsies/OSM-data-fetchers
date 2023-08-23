@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [19.923725917454846,39.62363767865068],
+            [19.925476912438654,39.62345332314899]
+          ]
+        },
+        "properties": {
+          "_type": "edge",
+          "_u_id": "node1",
+          "_v_id": "node2",
+          "streetName": "Spianada Square Crossing Street"
+        }
+      }
+    ]
+  }
